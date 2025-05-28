@@ -1,0 +1,2 @@
+# AdotaAqui_pkzim
+Este é um site desenvolvido para gerenciar informações sobre pets disponíveis para adoção. Ele possui duas áreas principais:  Administração de Pets: Voltada para ONGs ou responsáveis pelo cadastro de animais, permitindo o gerenciamento completo dos pets (cadastro, edição, remoção e status de adoção).  Sessão para Usuário Final: Área pública onde os visitantes do site podem visualizar os pets disponíveis e escolher aquele que desejam adotar.  O objetivo é facilitar o processo de adoção responsável, conectando adotantes e animais de forma simples e eficiente.
