@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "authors": 
+    {
+      "name": "pkzim77",
+      "email": "kaua.albuquerque@aluno.uece.br",
+      "url": "https://github.com/pkzim77"
+    },
+  "colaborators": 
+  {
+      "name": "kauaAlbuquerque",
+      "email": "kauaalbuquerque77@gmail.com",
+      "url": "https://github.com/kauaAlbuquerque"
+  }, 
+  "license": "ISC",
+  "description": "",
+  "dependencies" : {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "cors": "^2.8.5",
+    "mysql": "2.18.1"
+  }
+}
